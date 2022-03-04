@@ -8,3 +8,5 @@
 - Security Groups for the web, apps & DB
 - ALB (Application Load Balancer)
 - Database (AWS RDS)
+
+> You need to define your Acess and secret key in var file which is not provided here

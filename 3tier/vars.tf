@@ -17,3 +17,16 @@ variable "AMIS" {
   }
 }
 
+variable "db_credentials" {
+  type = list(object({
+    username = string
+    password = string
+  }))
+  default = [
+    {
+      username = "root"
+      password = "root123"
+    }
+  ]
+}
+
