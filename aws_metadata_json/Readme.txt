@@ -8,7 +8,7 @@
 - SSH into the instance
 - Install Python 3 and git on your instance 
  - Clone this repository
-  - `git clone https://github.com/
+  - `git clone https://github.com/amitmohan1786/assessmentcodes.git
 - Install pip
  - Open the repository on your instance
   - `cd aws_metadata_json`
